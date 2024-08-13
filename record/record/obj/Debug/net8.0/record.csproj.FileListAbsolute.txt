@@ -1,0 +1,15 @@
+C:\Users\korep\RiderProjects\sandbox\record\record\bin\Debug\net8.0\record.exe
+C:\Users\korep\RiderProjects\sandbox\record\record\bin\Debug\net8.0\record.deps.json
+C:\Users\korep\RiderProjects\sandbox\record\record\bin\Debug\net8.0\record.runtimeconfig.json
+C:\Users\korep\RiderProjects\sandbox\record\record\bin\Debug\net8.0\record.dll
+C:\Users\korep\RiderProjects\sandbox\record\record\bin\Debug\net8.0\record.pdb
+C:\Users\korep\RiderProjects\sandbox\record\record\obj\Debug\net8.0\record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korep\RiderProjects\sandbox\record\record\obj\Debug\net8.0\record.AssemblyInfoInputs.cache
+C:\Users\korep\RiderProjects\sandbox\record\record\obj\Debug\net8.0\record.AssemblyInfo.cs
+C:\Users\korep\RiderProjects\sandbox\record\record\obj\Debug\net8.0\record.csproj.CoreCompileInputs.cache
+C:\Users\korep\RiderProjects\sandbox\record\record\obj\Debug\net8.0\record.sourcelink.json
+C:\Users\korep\RiderProjects\sandbox\record\record\obj\Debug\net8.0\record.dll
+C:\Users\korep\RiderProjects\sandbox\record\record\obj\Debug\net8.0\refint\record.dll
+C:\Users\korep\RiderProjects\sandbox\record\record\obj\Debug\net8.0\record.pdb
+C:\Users\korep\RiderProjects\sandbox\record\record\obj\Debug\net8.0\record.genruntimeconfig.cache
+C:\Users\korep\RiderProjects\sandbox\record\record\obj\Debug\net8.0\ref\record.dll
