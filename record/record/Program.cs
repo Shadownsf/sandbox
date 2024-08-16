@@ -15,10 +15,15 @@ FullName jack = new("Jack", "Bower");
 FullName jackB = jack with { FirstName = "Jack B." };
 var (firstName1, _) = jackB;
 
-record Mononym(string FirstName);
-record FullName(string FirstName, string LastName) : Mononym(FirstName);
+Console.WriteLine(samuel);
+Console.WriteLine(samuelL);
+Console.WriteLine(jack);
+Console.WriteLine(jackB);
 
-class CustomMononym : IEquatable<CustomMononym>
+public record Mononym(string FirstName);
+public record FullName(string FirstName, string LastName) : Mononym(FirstName);
+
+public class CustomMononym : IEquatable<CustomMononym>
 {
     public string FirstName { get; init; }
     public CustomMononym(string firstName) => FirstName = firstName;
@@ -59,7 +64,7 @@ public class CustomFullname : CustomMononym, IEquatable<CustomFullname>
     public string FirstName { get; init; }
     public string LastName  { get; init; }
 
-    public CustomFullname(string lastName, string firstName) =>
+    public CustomFullname(string lastName, string firstName) : base(firstName) =>
         (FirstName, LastName) = (firstName, lastName);
 
     public CustomFullname(CustomFullname other) 
